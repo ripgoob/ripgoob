@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Timos 👋</h1>
+<h1 align="center">Hi, I'm Goob</h1>
 
 <p align="center">
-  Self-taught developer focused on low-level systems and clean tools.<br>
-  I build small, efficient things with C, Go, Lua, and a bit of chaos.
+  Self-taught developer focused on low-level systems and tools for games<br>
+  i mainly just make stuff i think a niche group of people need or myself
 </p>
 
 ---
