@@ -36,5 +36,4 @@
 
 ### 📫 Reach Me
 
-- 🔗 [Your Website or Portfolio](#)
-- 📨 Contact: *youremail@example.com*
+ripgoob on discord
