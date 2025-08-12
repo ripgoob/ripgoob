@@ -14,7 +14,8 @@
 ![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
 ![Windows API](https://img.shields.io/badge/WinAPI-%230078D7?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+[![Dear ImGui](https://img.shields.io/badge/Dear%20ImGui-Tag?logo=imgui&color=blue)](https://github.com/ocornut/imgui)
+[![SDL](https://img.shields.io/badge/SDL-Tag?logo=sdl&color=orange)](https://libsdl.org)
 ---
 
 ### ⚙️ Projects & Interests
