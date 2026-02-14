@@ -20,10 +20,10 @@
 
 ### ⚙️ Projects & Interests
 
-- ⚒️ Building GUI tools in pure **C** with the Windows API  
-- 🐚 Writing terminal apps with **Go** and [Bubbletea](https://github.com/charmbracelet/bubbletea)  
-- 🎮 Messing around with **config parsers**, file formats, and retro-style tools  
-- 📁 Exploring scripting engines with **Lua**
+- Building GUI tools in pure **C** with the Windows API  
+-  Writing terminal apps with **Go** and [Bubbletea](https://github.com/charmbracelet/bubbletea)  
+-  Messing around with **config parsers**, file formats, and retro-style tools  
+-  Exploring scripting engines with **Lua**
 
 ---
 
@@ -35,6 +35,6 @@
 
 ---
 
-### 📫 Reach Me
+###  Reach Me
 
 ripgoob on discord
